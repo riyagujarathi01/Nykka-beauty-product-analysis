@@ -47,7 +47,7 @@ To explore and analyze Nykaa's product dataset to derive actionable insights for
 
 ## 📸 Dashboard Screenshot
 
-![Nykaa Dashboard](C:\Users\Ria\OneDrive\Pictures\Screenshots)
+![Nykaa Dashboard]("C:\Github projects\Nykka beauty product analysis\nykaa dashboard image.png")
 
 > *(Replace the image path with your actual screenshot filename if different)*
 
