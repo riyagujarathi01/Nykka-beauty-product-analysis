@@ -47,7 +47,7 @@ To explore and analyze Nykaa's product dataset to derive actionable insights for
 
 ## 📸 Dashboard Screenshot
 
-![Nykaa Dashboard](./images/nykaa_dashboard.png)
+![Nykaa Dashboard](C:\Users\Ria\OneDrive\Pictures\Screenshots)
 
 > *(Replace the image path with your actual screenshot filename if different)*
 
@@ -69,5 +69,5 @@ To explore and analyze Nykaa's product dataset to derive actionable insights for
 
 ## 📬 Contact
 
-If you have any questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin) or reach out via GitHub.
+If you have any questions or feedback, feel free to connect with me on [LinkedIn](www.linkedin.com/in/riya-gujarathi-271640240) or reach out via GitHub.
 
