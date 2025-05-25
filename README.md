@@ -69,5 +69,7 @@ To explore and analyze Nykaa's product dataset to derive actionable insights for
 
 ## 📬 Contact
 
-If you have any questions or feedback, feel free to connect with me on [LinkedIn](www.linkedin.com/in/riya-gujarathi-271640240) or reach out via GitHub.
+If you have any questions or feedback, feel free to connect with me on Linkedin or reach out via GitHub.
+Power BI Dashboard Project | LinkedIn: https://www.linkedin.com/in/riya-gujarathi-271640240/
+
 
