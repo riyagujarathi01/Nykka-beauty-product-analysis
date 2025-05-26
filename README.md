@@ -46,10 +46,9 @@ To explore and analyze Nykaa's product dataset to derive actionable insights for
 
 
 ## 📸 Dashboard Screenshot
+![Nykaa Dashboard](nykaa_dashboard.png)
 
-Nykaa Dashboard- ("C:\Github projects\Nykka beauty product analysis\nykaa dashboard image.png")
----
-
+----
 ## 🧠 Learning Outcomes
 
 - Practiced data cleaning and transformation using Power BI
