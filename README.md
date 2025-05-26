@@ -59,8 +59,7 @@ To explore and analyze Nykaa's product dataset to derive actionable insights for
 
 ## 🔗 Project Link
 
-[View this project on GitHub](https://github.com/riyagujarathi01/Nykaa-beauty-product-analysis)
-
+👉 [View this Project on GitHub](https://github.com/riyagujarathi01/Nykaa-beauty-product-analysis)
 
 ---
 
