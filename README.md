@@ -47,8 +47,7 @@ To explore and analyze Nykaa's product dataset to derive actionable insights for
 
 ## 📸 Dashboard Screenshot
 
-Nykaa Dashboard-
-"C:\Github projects\Nykka beauty product analysis\nykaa dashboard image.png"
+Nykaa Dashboard- ("C:\Github projects\Nykka beauty product analysis\nykaa dashboard image.png")
 ---
 
 ## 🧠 Learning Outcomes
@@ -61,7 +60,8 @@ Nykaa Dashboard-
 
 ## 🔗 Project Link
 
-[View this project on GitHub](https://github.com/your-username/nykaa-beauty-product-analysis)
+[View this project on GitHub](https://github.com/riyagujarathi01/Nykaa-beauty-product-analysis)
+
 
 ---
 
